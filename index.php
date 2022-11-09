@@ -8,7 +8,7 @@
     <title>Le Dérailleur</title>
 </head>
 <body>
-    <h1>Le Dérailleur TEST<h1>
+    <h1>Le Dérailleur</h1>
     <p>Texte de Présentation</p>
     <ul>
         <li onclick="aff(1)">L’Association</li>
